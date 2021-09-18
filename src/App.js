@@ -1,10 +1,16 @@
 
 import './App.css';
-import Content from './Components/Content.js';
+import About from './Components/About';
+import Content from './Components/Content/index.js';
+import Nav from './Components/Nav';
+import Footer from './Components/Footer';
 function App() {
   return (
     <div>
-      <Content></Content>
+      <Nav> </Nav>
+      <main> <About></About> <Content></Content></main>
+      <Footer></Footer>
+     
     </div>
   );
 }
