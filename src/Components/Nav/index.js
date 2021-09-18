@@ -14,9 +14,9 @@ function Nav(){
             <nav className="navbar-brand">
                 <a  href="/"> Home </a>
                 <ul>
-                    <li><a className="nav-link" href="#about">About </a></li>
-                    <li><a className="nav-link" href="#projects"> Projects </a></li>
-                    <li><a className="nav-link" href="#contact"> Contact </a></li>
+                    <li><a className="nav-link" href="About">About </a></li>
+                    <li><a className="nav-link" href="Content"> Projects </a></li>
+                    <li><a className="nav-link" href="Contact"> Contact </a></li>
                 </ul>
             
             </nav>
