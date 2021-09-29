@@ -4,16 +4,23 @@ import About from './Components/About';
 import Content from './Components/Content/index.js';
 import Nav from './Components/Nav';
 import Contact from './Components/Contact';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch, HashRouter } from 'react-router-dom';
+// import { 
+//   Router,
+//   Switch,
+//   Route,
+//   Redirect, 
+//   useLocation,
+// } from 'react-router-dom';
 import Resume from './Components/Resume';
 import Footer from './Components/footer';
 
 
 function App() {
+  
   return (
     <main>
       <BrowserRouter>
-      
       <Switch>
       <Route exact path='/' component={About} />
       <Route exact path='/About' component={About} />
@@ -22,7 +29,7 @@ function App() {
       <Route exact path='/Resume' component={Resume} />
      </Switch>
      <Footer></Footer>
-     </BrowserRouter>
+    </BrowserRouter>
     </main>
   );
 }
