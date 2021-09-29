@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.d645edb5.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.373e5dad.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.373e5dad.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.12bdd3bf.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.12bdd3bf.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.91614c08.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.91614c08.js.map",
-    "static/js/2.afa05a48.chunk.js": "/React-Portfolio/static/js/2.afa05a48.chunk.js",
-    "static/js/2.afa05a48.chunk.js.map": "/React-Portfolio/static/js/2.afa05a48.chunk.js.map",
+    "static/js/2.b208bca5.chunk.js": "/React-Portfolio/static/js/2.b208bca5.chunk.js",
+    "static/js/2.b208bca5.chunk.js.map": "/React-Portfolio/static/js/2.b208bca5.chunk.js.map",
     "static/js/3.a7dc10be.chunk.js": "/React-Portfolio/static/js/3.a7dc10be.chunk.js",
     "static/js/3.a7dc10be.chunk.js.map": "/React-Portfolio/static/js/3.a7dc10be.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.d645edb5.chunk.css.map": "/React-Portfolio/static/css/main.d645edb5.chunk.css.map",
-    "static/js/2.afa05a48.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.afa05a48.chunk.js.LICENSE.txt",
+    "static/js/2.b208bca5.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b208bca5.chunk.js.LICENSE.txt",
     "static/media/coinvrt.423635ef.PNG": "/React-Portfolio/static/media/coinvrt.423635ef.PNG",
     "static/media/fooder.d4d79569.PNG": "/React-Portfolio/static/media/fooder.d4d79569.PNG",
     "static/media/me.059a103b.jpeg": "/React-Portfolio/static/media/me.059a103b.jpeg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.91614c08.js",
-    "static/js/2.afa05a48.chunk.js",
+    "static/js/2.b208bca5.chunk.js",
     "static/css/main.d645edb5.chunk.css",
-    "static/js/main.373e5dad.chunk.js"
+    "static/js/main.12bdd3bf.chunk.js"
   ]
 }
