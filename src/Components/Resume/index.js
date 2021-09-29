@@ -13,7 +13,7 @@ function Resume(){
              <Nav></Nav>
             <h1 id="contact"  className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"> Resume </h1>
             <a href='https://drive.google.com/file/d/1Z7YTwnCtH2_wXLYI09D3mLp9pPFw75z5/view?usp=sharing'> My resume </a>
-            <p> Here is my updated 2021 Resume! </p>
+            <p> Here is my updated 2021 Resume! Im experienced in Javascript and backend node.js! I love the MERN! </p>
         </div>
     )
 }
