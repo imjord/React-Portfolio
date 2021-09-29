@@ -1,5 +1,6 @@
 import React from 'react';
 import Nav from '../Nav';
+import picture from '.../assets/images/me.jpeg'
 
 
 function About(){
