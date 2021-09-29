@@ -6,12 +6,12 @@ A simple Portfolio made and rendered using React!
 
 # Features
 
-There is a contact form!
-I have a resume section that brings you to my resume to download! (wowza!)
-Deployed to heroku
-clickable links!
-using React Router to route to other sections!
-footer and nav staying consistent between sections!
+* There is a contact form!
+* I have a resume section that brings you to my resume to download! (wowza!)
+* Deployed to heroku
+* clickable links!
+* using React Router to route to other sections!
+* footer and nav staying consistent between sections!
 
 
 
